@@ -1,16 +1,11 @@
-### Hi there 👋
+👋 Hi, I'm Tiffany, and welcome to my GitHub bio.
 
-<!--
-**yinjuchen/yinjuchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 I'm currently as an User Service Analyst and looking forward to become a Front-end developer.
 
-Here are some ideas to get you started:
+🇹🇼 I'm based in Taipei, TW.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎭 I like going to art galleies, operas, stage dramas and bookstores.
+
+🎵 I love listening to Jazz and Indie rock, and many other kinds of music.
+
+
