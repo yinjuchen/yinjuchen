@@ -1,6 +1,6 @@
 👋 Hi, I'm Tiffany, and welcome to my GitHub bio.
 
-💼 I'm currently as an User Service Analyst and looking forward to become a Front-end developer.
+💼 I'm currently as an User Service Analyst and looking forward to become a Frontend developer.
 
 🇹🇼 I'm based in Taipei, TW.
 
