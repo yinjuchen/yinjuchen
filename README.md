@@ -8,7 +8,7 @@ I'm currently as an User Service Analyst and looking forward to become a Fronten
 
 *   🌍  I'm based in Taipei City
 *   ✉️  You can contact me at [tiffanyc1213@icloud.com](mailto:tiffanyc1213@icloud.com)
-*   🧠  I'm learning Data Structure and Algorithms
+*   🧠  I'm learning Data Structure and Algorithms and React.js
 *   🤝  I'm open to collaborating on Projects
 
 ### Skills
