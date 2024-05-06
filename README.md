@@ -4,11 +4,11 @@ Hi 👋 My name is Tiffany
 Frontend Developer
 ------------------
 
-I'm currently as an User Service Analyst and looking forward to become a Frontend developer.
+I'm currently a User Service Analyst and looking forward to becoming a Full-stack developer.
 
 * 🌍  I'm based in Taipei City
-* 🖥️  See my portfolio at [MyPortfolio](http://univers.herokuapp.com/)
-* ✉️  You can contact me at [tiffanyc1213@gmail.com](mailto:tiffanyc1213@gmail.com)
+* 🖥️  See my portfolio at [MyPortfolio](http://yinjuchen.netlify.app)
+* ✉️  You can contact me at [tiffanyc1213@gmail.com](mailto:tiffanyc1213@icloud.com)
 * 🧠  I'm learning I'm learning Data Structure and Algorithms and React.js
 * 🤝  I'm open to collaborating on Projects
 
