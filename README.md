@@ -9,7 +9,7 @@ I'm currently a User Service Analyst and looking forward to becoming a Full-stac
 * 🌍  I'm based in Taipei City
 * 🖥️  See my portfolio at [MyPortfolio](http://yinjuchen.netlify.app)
 * ✉️  You can contact me at [tiffanyc1213@gmail.com](mailto:tiffanyc1213@icloud.com)
-* 🧠  I'm learning I'm learning Data Structure and Algorithms and React.js
+* 🧠  I'm learning I'm learning Prompt Engineering
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
